@@ -180,9 +180,11 @@ Collection = client[:artists]
 Collection = SomeExistingModel.collection.client[:artists]
 ```
 
-## Disclamer
+## Disclaimer
 All the changes are made at your own risk.
 
 This is not a complete list of all changes. 
-If you found some additional changes, please make a pull request or open an issue with your solution. 
+If you want add some additional information, please make a pull request or open an issue.
+
+Community will be very happy if get clearly instruction for migration.
 Thank you.
